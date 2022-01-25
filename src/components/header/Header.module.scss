@@ -1,0 +1,17 @@
+.Header {
+    min-width: 320px;
+    min-height: 12.5vh;
+    display:flex;
+    align-items: center;
+    margin: auto;
+    width: 99%;
+    box-sizing: border-box;
+    background-color: black;
+    border: 0.5px solid white;
+    color: white;
+
+    img{
+        width: 7.5%;
+        padding-left: 1%
+    }
+}

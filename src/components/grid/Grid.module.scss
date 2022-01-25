@@ -1,0 +1,19 @@
+.GridContainer{ 
+    min-width: 320px;
+    min-height: 12.5vh;
+    height: 80vh;
+    display:flex;
+    align-items: center;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    width: 50%;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 0.5px solid white;
+    color: white;
+
+}
+.Grid{
+    background-color: white;
+    color: black;
+}
